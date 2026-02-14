@@ -8,6 +8,7 @@ class Armstrong_Number_q1
 		int num = sc.nextInt();
 		int copy =num;
 		int count = 0;
+		//find how many digit in our Number..
 	     while (num%10!=0)
 	     { 
 			 count++;
@@ -38,3 +39,4 @@ class Armstrong_Number_q1
 		}
 	}
 }
+
