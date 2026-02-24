@@ -1,3 +1,4 @@
+//How to find factorial of the given number.
 import java.util.Scanner;
 class All_Factors_q3 
 {
@@ -16,3 +17,4 @@ class All_Factors_q3
 		}
 	}
 }
+
